@@ -75,7 +75,6 @@ Alongside that, I spend a lot of time exploring AI-related tools, workflows, and
 ## Connect With Me
 
 - My Labs: [SozyLabs](https://www.sozylabs.cloud/)
-- GitHub: [soezayar-hg](https://github.com/soezayar-hg/)
 - LinkedIn: [linkedin.com/in/szyar](https://www.linkedin.com/in/szyar/)
 - Email: [koszyar@gmail.com](mailto:koszyar@gmail.com)
 
