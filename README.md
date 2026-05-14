@@ -8,7 +8,7 @@
 
 Backend leader, systems architect, and product-minded engineer based in Bangkok, Thailand.
 
-I help teams build scalable backend systems, modernize legacy applications, and ship products with more clarity, stability, and long-term maintainability. My background spans backend, full-stack, and mobile development, but my strongest value comes from technical ownership, architecture decisions, and turning messy systems into cleaner ones.
+I help teams build scalable backend systems, modernize legacy applications, and ship products with more clarity, stability, and long-term maintainability. My background spans backend, full-stack, mobile, and increasingly AI-focused product development, with a strong interest in applying AI in practical ways that improve systems, workflows, and product capability.
 
 ## A Quick Intro
 
@@ -17,6 +17,7 @@ I help teams build scalable backend systems, modernize legacy applications, and 
 - Strongest in backend architecture, API design, system design, legacy refactoring, and performance optimization
 - Comfortable leading both technical direction and hands-on implementation
 - Interested in practical product building, not just code in isolation
+- Early adopter of AI tools and workflows, with strong interest in building AI-enabled products and automation systems
 
 ## What I Usually Work On
 
@@ -26,6 +27,8 @@ I help teams build scalable backend systems, modernize legacy applications, and 
 - Performance and reliability improvements
 - Internal tools and admin platforms
 - Real-time features and product workflows
+- AI-assisted workflows and automation
+- AI-enabled product ideas and implementation
 
 ## Tech I Work With
 
@@ -58,6 +61,8 @@ I’ve worked on ERP systems, supplier portals, e-commerce platforms, POS system
 
 In my current role, I focus on backend architecture, modernization efforts, performance improvements, migration work, and helping teams ship more reliable systems. I enjoy the kind of work where technical decisions actually matter: shaping systems, reducing complexity, and making delivery smoother for the team.
 
+Alongside that, I spend a lot of time exploring AI-related tools, workflows, and product use cases. I’m an early adopter of AI in day-to-day engineering work, and I’m especially interested in how AI can improve development speed, internal operations, product experience, and automation quality when used in a grounded, practical way.
+
 ## How I Work
 
 - I prefer clarity over unnecessary complexity
@@ -65,18 +70,7 @@ In my current role, I focus on backend architecture, modernization efforts, perf
 - I like pairing engineering decisions with real product value
 - I can move between architecture thinking and implementation detail
 - I work best on problems that need ownership, structure, and practical execution
-
-## For Recruiters And Clients
-
-If you're looking for someone who can lead backend architecture, improve existing systems, and still stay close to product and delivery, that is the kind of work I do best.
-
-I'm especially useful in roles or projects that need:
-
-- backend leadership with hands-on execution
-- architecture decisions grounded in real delivery constraints
-- modernization of legacy systems
-- strong API and platform design
-- a practical engineer who can balance speed, quality, and maintainability
+- I actively explore where AI meaningfully fits into engineering and product workflows
 
 ## Connect With Me
 
